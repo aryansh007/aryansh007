@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on frontend development with help of reactjs , javascript ,html ,css , nodejs <br><br>I am looking to collaborate on commercial web development ideas <br><br>I am looking for help with system design <br><br>I am currently learning python as backend developer <br><br>ask me about frontend
+I am currently working on frontend development with help of reactjs , javascript ,html ,css , nodejs <br><br>I am looking to collaborate on commercial web development ideas <br><br>I am looking for help with system design <br><br>I am currently learning python as backend developer <br><br>Ask me anything about frontend
 
 
 # 💻 Tech Stack:
